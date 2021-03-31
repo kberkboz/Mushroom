@@ -90,9 +90,5 @@ Dosyaları metin düzenleyicinizle açın ve gördüğünüz komutları istediğ
 Open the files with a text editor and change the commands as you want
 <br>
 </b>
-mushroomcode.org'a göz atın
-<br>
-<b>
-Check out mushroomcode.org
 
 
